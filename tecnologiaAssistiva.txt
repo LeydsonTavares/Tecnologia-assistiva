@@ -20,5 +20,7 @@ D.	As TICs como meio de inserção no mundo do trabalho profissional.
 •	Busca-se apresentar aqui diferentes adaptações, recursos e formas de utilização da tecnologia assistiva com a finalidade de possibilitar a interação, no computador, para pessoas com diferentes graus de comprometimento motor, sensorial e/ou de comunicação e linguagem.
 
 
+•	Essas adaptações podem ser  classificadas na seguinte ordem:
 
+A.	Adaptações físicas ou órteses: São todos os aparelhos ou adaptações fixadas e utilizadas no corpo do usuário e que facilitam a interação do mesmo com o computador. 
 
