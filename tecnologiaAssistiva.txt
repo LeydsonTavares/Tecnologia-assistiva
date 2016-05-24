@@ -24,3 +24,6 @@ D.	As TICs como meio de inserção no mundo do trabalho profissional.
 
 A.	Adaptações físicas ou órteses: São todos os aparelhos ou adaptações fixadas e utilizadas no corpo do usuário e que facilitam a interação do mesmo com o computador. 
 
+B.	Adaptações de hardware: São todos os aparelhos ou adaptações presentes nos componentes físicos do computador, nos periféricos, ou mesmo quando os próprios periféricos, em suas concepções e construção, são especiais e adaptados.
+          Ex: Máscara de teclado encaixada
+Figura 4.1
