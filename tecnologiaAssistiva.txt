@@ -27,3 +27,7 @@ A.	Adaptações físicas ou órteses: São todos os aparelhos ou adaptações fixadas e
 B.	Adaptações de hardware: São todos os aparelhos ou adaptações presentes nos componentes físicos do computador, nos periféricos, ou mesmo quando os próprios periféricos, em suas concepções e construção, são especiais e adaptados.
           Ex: Máscara de teclado encaixada
 Figura 4.1
+
+C.	Softwares especiais de acessibilidade: São os programas especiais de computador que possibilitam ou facilitam a interação da pessoa com deficiência com a máquina.
+Ex: Simulador de teclado, e de mouse por meio de sopros em um microfone.
+
